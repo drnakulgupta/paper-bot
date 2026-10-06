@@ -1,14 +1,8 @@
 {
-  "cash": 7500.0,
-  "position": {
-    "qty": 0.029831407980245594,
-    "entry": 83586.4,
-    "cost": 2500.0,
-    "stop": 81078.80799999999,
-    "target": 88601.584
-  },
-  "last_ts": 1791244800,
+  "cash": 10045.02499878449,
+  "position": null,
+  "last_ts": 1791270000,
   "halted": false,
-  "trades": 0,
-  "wins": 0
+  "trades": 1,
+  "wins": 1
 }
